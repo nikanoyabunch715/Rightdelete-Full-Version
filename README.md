@@ -239,3 +239,6 @@ This repository serves as the official landing page for RightDelete. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of RightDelete today!**
+
+---
+**Last updated:** 2026-09-11 15:43:01 UTC
