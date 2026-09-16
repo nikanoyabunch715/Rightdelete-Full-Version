@@ -241,4 +241,4 @@ This repository serves as the official landing page for RightDelete. The softwar
 **Get the most recent version of RightDelete today!**
 
 ---
-**Last updated:** 2026-09-15 22:38:43 UTC
+**Last updated:** 2026-09-16 00:58:54 UTC
